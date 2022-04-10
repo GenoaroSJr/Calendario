@@ -1,4 +1,4 @@
-# Challenge - Strategy
+# Calendário
 
 ## Esse projeto
 Nos últimos meses tenho me aprofundado na linuagem PHP, dessa forma, com o intuíto de práticar o que tenho aprendido, criei este projetinho. 
